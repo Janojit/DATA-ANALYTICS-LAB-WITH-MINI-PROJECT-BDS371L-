@@ -1,4 +1,4 @@
-# DATA ANALYTICS LAB WITH MINI PROJECT
+# DATA ANALYTICS
 Description and Objectives:
 - Understand the methodology in performing Data Analytics
 - Perform Data Preprocessing and Visualisation using Python
